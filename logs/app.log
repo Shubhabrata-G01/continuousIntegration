@@ -1,0 +1,16 @@
+2020-11-16 18:34:24,915 INFO l.RetryHelper [main] Retrying Test test2 with status Failure for the 1 times.
+2020-11-16 18:34:25,107 INFO l.RetryHelper [main] Retrying Test test4 with status Failure for the 2 times.
+2020-11-16 18:34:25,203 INFO l.RetryHelper [main] Retrying Test test6 with status Failure for the 3 times.
+2020-11-16 18:34:25,258 INFO l.RetryHelper [main] Retrying Test test7 with status Failure for the 4 times.
+2020-11-16 18:34:25,429 INFO l.RetryHelper [main] Retrying Test test10 with status Failure for the 5 times.
+2020-11-16 18:34:25,515 INFO l.RetryHelper [main] Retrying Test test12 with status Failure for the 6 times.
+2020-11-16 18:34:25,633 INFO l.RetryHelper [main] Retrying Test test14 with status Failure for the 7 times.
+2020-11-16 18:34:25,696 INFO l.RetryHelper [main] Retrying Test test15 with status Failure for the 8 times.
+2020-11-16 18:40:19,717 INFO l.RetryHelper [main] Retrying Test test2 with status Failure for the 1 times.
+2020-11-16 18:40:19,943 INFO l.RetryHelper [main] Retrying Test test4 with status Failure for the 2 times.
+2020-11-16 18:40:20,061 INFO l.RetryHelper [main] Retrying Test test6 with status Failure for the 3 times.
+2020-11-16 18:40:20,108 INFO l.RetryHelper [main] Retrying Test test7 with status Failure for the 4 times.
+2020-11-16 18:40:20,287 INFO l.RetryHelper [main] Retrying Test test10 with status Failure for the 5 times.
+2020-11-16 18:40:20,375 INFO l.RetryHelper [main] Retrying Test test12 with status Failure for the 6 times.
+2020-11-16 18:40:20,455 INFO l.RetryHelper [main] Retrying Test test14 with status Failure for the 7 times.
+2020-11-16 18:40:20,501 INFO l.RetryHelper [main] Retrying Test test15 with status Failure for the 8 times.
